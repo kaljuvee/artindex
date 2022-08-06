@@ -1,0 +1,6 @@
+plotly_express
+plotly
+deta
+pandas
+streamlit
+numpy

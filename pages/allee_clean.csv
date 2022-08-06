@@ -1,0 +1,322 @@
+date,author,start_price,end_price,year,decade,tech,category,dimension
+2022,August Jansen ,20000,28500,1945,1940,Oil on canvas,Oil paint,5507.4
+2022,Peet Aren ,12800,19000,1912,1910,Oil on canvas,Oil paint,2813
+2022,Richard Uutmaa ,16500,16500,1955,1950,Oil on canvas,Oil paint,3500
+2022,Ilmar Kimm ,3000,3700,1950,1950,Oil on canvas,Oil paint,5330.1
+2022,Varmo Pirk ,5900,5900,1961,1960,Tempera,Other paint,6742.4
+2022,Johannes Vaerahansu ,18800,37000,1934,1930,Oil on canvas,Oil paint,3794.24
+2022,Ann Audova ,6800,26500,1947,1940,Oil on canvas,Oil paint,6256
+2022,Richard Uutmaa ,3800,4500,1977,1970,Watercolour,Other paint,2848
+2022,Valve Janov ,1400,1650,1960,1960,Oil on cardboard,Oil paint,2080
+2022,Richard Sagrits ,4000,4000,1950,1950,Oil on cardboard,Oil paint,1750
+2022,Ardo Sivadi ,6800,6800,1932,1930,Oil on canvas,Oil paint,7638
+2022,Malle Leis ,5300,5300,1967,1960,Mixed technique,Other,3600
+2022,Juri Arrak,12800,19200,1970,1970,Oil on canvas,Oil paint,11640
+2022,Aili Vint ,28000,55000,1977,1970,Gouache,Other paint,24350.6
+2022,Olav Maran ,2400,5400,1979,1970,Oil on canvas,Oil paint,2806
+2022,Artur Lokk ,3100,3300,1985,1980,Oil on wood,Oil paint,6716
+2022,Malle Leis ,1900,3650,1991,1990,Watercolour,Other paint,3780
+2022,Andrei Jegorov ,1900,3100,1920,1920,Mixed technique,Other,896
+2022,Lembit Sarapuu ,3800,4000,1960,1960,Oil on canvas,Oil paint,3300
+2022,Kalju Nagel ,1750,2700,1971,1970,Oil on cardboard,Oil paint,3264
+2022,Edgar Valter ,6800,9800,1968,1960,Oil on cardboard,Oil paint,4620
+2022,Leonhard Lapin ,2800,7000,1987,1980,Oil on canvas,Oil paint,3675.25
+2022,Juri Arrak,6000,12000,1983,1980,Watercolour,Other paint,3905
+2022,Eugeni Noormagi  ,2400,2400,1950,1950,Oil on canvas,Oil paint,3796
+2022,Richard Uutmaa ,8500,16500,1972,1970,Oil on cardboard,Oil paint,3500
+2022,Silvia Jogever,5700,5700,1991,1990,Oil on cardboard,Oil paint,6405
+2022,Richard Uutmaa ,2500,4600,1965,1960,Watercolour,Other paint,3500
+2022,Paul Burman ,1800,1800,1928,1920,Oil on cardboard,Oil paint,1734
+2022,Olav Maran ,1800,4800,1966,1960,Tempera,Other paint,3850
+2022,Andres Tolts ,1800,4500,2001,2000,Acrylic,Other paint,2667
+2022,Varmo Pirk ,2400,3100,1966,1960,Oil on cardboard,Oil paint,3500
+2022,Aleksander Pilar ,950,4000,1964,1960,Watercolour,Other paint,2200
+2022,Roman Nyman ,1200,1200,1944,1940,Mixed technique,Other,923.13
+2022,Varmo Pirk ,5900,13500,1963,1960,Oil on canvas,Oil paint,6375
+2022,Valdemar Vali ,1800,3200,1993,1990,Acrylic,Other paint,3381
+2022,Mari Roosvalt ,4700,4700,2007,2000,Oil on canvas,Oil paint,15600
+2022,Malle Leis ,1900,3150,1987,1980,Watercolour,Other paint,3600
+2022,Valdur Ohakas ,1800,1950,1983,1980,Oil on wood,Oil paint,2000
+2022,Ulo Sooster,34000,44500,1970,1970,Oil on canvas,Oil paint,2080.5
+2022,Joann Saarniit ,2000,3700,1964,1960,Oil on wood,Oil paint,3458
+2022,Ulo Sooster,3400,3400,1961,1960,Mixed technique,Other,516.75
+2022,Johannes Vaerahansu ,3400,3400,1957,1950,Oil on wood,Oil paint,2298.45
+2022,Joann Saarniit ,1700,1700,1970,1970,Oil on wood,Oil paint,3150
+2022,Malle Leis ,2900,3500,1993,1990,Mixed technique,Other,3888
+2022,Peeter Allik ,500,600,2003,2000,Oil on canvas,Oil paint,352
+2022,Peeter Allik ,500,550,2004,2000,Oil on canvas,Oil paint,352
+2022,Peeter Allik ,500,550,2004,2000,Oil on canvas,Oil paint,352
+2022,Richard Uutmaa ,2900,3800,1969,1960,Watercolour,Other paint,1702
+2022,Raivo Korstnik ,1750,2300,1964,1960,Oil on cardboard,Oil paint,1742.4
+2022,Elmar Leppik ,1300,1800,1943,1940,Oil on wood,Oil paint,1200
+2022,Erich Pehap ,2800,2900,1943,1940,Drawing,Drawing,2496
+2022,Endel Kauks,1200,1200,1942,1940,Oil on wood,Oil paint,690
+2022,Erich Pehap ,800,2000,1964,1960,Mixed technique,Other,2883
+2022,Osvald Laane ,1200,2700,1975,1970,Oil on cardboard,Oil paint,4000
+2022,Osvald Laane ,1200,2600,1975,1970,Oil on cardboard,Oil paint,4000
+2022,Rene Kari ,1400,1400,2018,2010,Oil on wood,Oil paint,3721
+2022,Eduard Zentaik,1800,3700,2011,2010,Oil on canvas,Oil paint,4900
+2022,Kaljo Pollu,4800,17200,1975,1970,Graphics,Graphics,2485.2
+2022,Eduard Wiiralt ,3400,9300,1943,1940,Graphics,Graphics,1590.88
+2022,Eduard Wiiralt ,3900,3900,1942,1940,Graphics,Graphics,798.6
+2022,Eduard Wiiralt ,3900,10800,1933,1930,Graphics,Graphics,342.4
+2022,Eduard Wiiralt ,2600,4300,1937,1930,Graphics,Graphics,410.4
+2022,Eduard Wiiralt ,1300,1300,1936,1930,Wood cut,Other,201.72
+2022,Eduard Wiiralt ,4400,4400,1938,1930,Graphics,Graphics,1187.03
+2022,Tonis Vint,1000,1850,1987,1980,Graphics,Graphics,900
+2022,Juri Arrak,1500,3600,1983,1980,Graphics,Graphics,1386
+2022,Herald Eelma ,950,1050,1982,1980,Graphics,Graphics,4685.31
+2022,Kaljo Pollu,1400,1400,2003,2000,Graphics,Graphics,950.9
+2022,Ott Kangilaski ,1100,1750,1974,1970,Graphics,Graphics,1430.75
+2022,Juri Arrak,2500,6800,1985,1980,Graphics,Graphics,1358.5
+2022,Tonis Vint,1000,1950,1987,1980,Graphics,Graphics,900
+2022,Endel Kauks,1900,4100,1958,1950,Vitrography,Other,1557.5
+2022,Renaldo Veeber ,1200,1600,1965,1960,Graphics,Graphics,2352
+2022,Peeter Allik ,950,1000,1996,1990,Linoleum,Graphics,3876
+2022,Eduard Einmann ,1500,3200,1961,1960,Aquatint,Graphics,2062.41
+2022,Marju Mutsu ,900,1150,1972,1970,Etching,Graphics,521.64
+2022,Evald Okas ,2700,3500,1988,1980,Graphics,Graphics,3360
+2022,Malle Leis ,1500,2500,1996,1990,Graphics,Graphics,1957.5
+2022,Juri Arrak,4000,6200,1977,1970,Graphics,Graphics,2352
+2022,Juri Arrak,1500,6600,1981,1980,Graphics,Graphics,2288
+2022,Juri Arrak,2500,3600,1995,1990,Silk print,Other,1530
+2022,Malle Leis ,1200,2400,1990,1990,Graphics,Graphics,2756.25
+2022,Aili Vint ,800,950,1986,1980,Etching,Graphics,1452
+2022,Arnold Vihvelin ,900,900,1940,1940,Drawing,Drawing,3675
+2022,Mare Vint ,600,950,1980,1980,Graphics,Graphics,1520.75
+2022,Richard Kaljo ,1400,2800,1961,1960,Graphics,Graphics,748.41
+2022,Evald Okas ,650,2950,1964,1960,Graphics,Graphics,176
+2022,Marju Mutsu ,750,750,1976,1970,Etching,Graphics,215.09
+2022,Vive Tolli ,800,800,1979,1970,Etching,Graphics,3050
+2022,Kaljo Pollu,1500,5000,1974,1970,Graphics,Graphics,1570.3
+2022,Malle Leis ,1100,1500,1990,1990,Graphics,Graphics,770
+2022,Evald Okas ,900,950,1971,1970,Graphics,Graphics,554.6
+2022,Eduard Wiiralt ,4400,4400,1949,1940,Aquatint,Graphics,1090
+2022,Juri Arrak,1300,1600,1978,1970,Graphics,Graphics,408.5
+2022,Johannes Vaerahansu ,1250,3100,1923,1920,Drawing,Drawing,455.4
+2022,Ernst Tiido ,800,800,1943,1940,Graphics,Graphics,526.75
+2022,Vladimir Taiger ,1500,4800,1987,1980,Aquatint,Graphics,1443.2
+2022,Vladimir Taiger ,1500,3650,1988,1980,Aquatint,Graphics,2231
+2022,Vladimir Taiger ,1500,6550,1987,1980,Aquatint,Graphics,3024
+2022,Erich Pehap ,1200,1200,1950,1950,Linoleum,Graphics,1467.04
+2022,Ott Kangilaski ,700,700,1950,1950,Graphics,Graphics,502.25
+2022,Richard Kaljo ,1400,1450,1957,1950,Linoleum,Graphics,2626.83
+2022,Erna Koch ,700,700,1936,1930,Graphics,Graphics,1255.5
+2022,Evald Okas ,650,1250,1986,1980,Graphics,Graphics,2520
+2022,Leonhard Lapin ,2000,2100,1975,1970,Graphics,Graphics,3720
+2022,Leonhard Lapin ,1000,1000,1975,1970,Graphics,Graphics,3720
+2022,Voldemar Kangro-Pool ,500,500,1920,1920,Graphics,Graphics,494
+2022,Gunther Reindorff ,1200,1200,1963,1960,Graphics,Graphics,384
+2022,Eduard Einmann ,1300,2900,1961,1960,Aquatint,Graphics,2821
+2022,Roman Nyman ,1300,1750,1923,1920,Drawing,Drawing,697.5
+2022,Mare Vint ,600,700,1982,1980,Graphics,Graphics,1242.5
+2022,Leonhard Lapin ,950,1300,1980,1980,Graphics,Graphics,1619.5
+2022,Leonhard Lapin ,950,1450,1979,1970,Graphics,Graphics,1667.62
+2022,Silvi Liiva ,600,850,1975,1970,Etching,Graphics,1984.5
+2022,Vello Vinn ,600,800,1986,1980,Etching,Graphics,2650.5
+2022,Leonhard Lapin ,1000,1100,2003,2000,Graphics,Graphics,1934.75
+2022,Vive Tolli ,800,850,1971,1970,Etching,Graphics,2473.5
+2022,Marko Mäetamm ,700,700,2003,2000,Graphics,Graphics,594.5
+2022,Juri Arrak,1000,1650,1991,1990,Silk print,Other,2625
+2022,Mare Vint ,600,750,1985,1980,Graphics,Graphics,4657.5
+2022,Richard Kaljo ,500,500,1945,1940,Graphics,Graphics,472.41
+2022,Malle Leis ,1200,1650,1978,1970,Graphics,Graphics,900
+2021,Eduard Wiiralt ,7800,9200,1943,1940,Graphics,Graphics,2508.8
+2021,Kaljo Pollu,1400,4700,1975,1970,Graphics,Graphics,1593.28
+2021,Eduard Wiiralt ,2900,8600,1948,1940,Graphics,Graphics,405.84
+2021,Malle Leis ,1700,3300,1981,1980,Graphics,Graphics,3750
+2021,Eduard Wiiralt ,2300,2800,1940,1940,Graphics,Graphics,583.2
+2021,Juri Arrak,1500,7400,1976,1970,Graphics,Graphics,3085
+2021,Leonhard Lapin ,500,650,1987,1980,Graphics,Graphics,1680
+2021,Juri Arrak,1500,4400,1976,1970,Graphics,Graphics,2351.44
+2021,Kaljo Pollu,1000,1950,1977,1970,Graphics,Graphics,1857.24
+2021,Avo Keerend ,800,1050,1990,1990,Graphics,Graphics,4788
+2021,Eduard Wiiralt ,1900,1950,1933,1930,Graphics,Graphics,340.8
+2021,Alo Hoidre ,700,700,1965,1960,Graphics,Graphics,1809.6
+2021,Juri Arrak,1300,3300,1992,1990,Graphics,Graphics,2740.25
+2021,Tonis Vint,1000,4400,1983,1980,Graphics,Graphics,528
+2021,Vladimir Taiger ,1200,1200,1980,1980,Silk print,Other,3540
+2021,Juri Arrak,1500,2700,1973,1970,Graphics,Graphics,1400
+2021,Tonis Vint,900,1700,1983,1980,Graphics,Graphics,494.1
+2021,Ado Lill ,1000,2400,1977,1970,Graphics,Graphics,1558
+2021,Ado Lill ,1000,1100,1976,1970,Graphics,Graphics,1286.85
+2021,Richard Kaljo ,1300,1400,1957,1950,Linoleum,Graphics,1616.8
+2021,Richard Kaljo ,800,1050,1965,1960,Linoleum,Graphics,1472.5
+2021,Malle Leis ,1500,3000,1977,1970,Graphics,Graphics,0
+2021,Evald Okas ,2200,2200,1972,1970,Aquatint,Graphics,2086.5
+2021,Vive Tolli ,1100,2400,2002,2000,Graphics,Graphics,3381
+2021,Leonhard Lapin ,600,2100,1976,1970,Graphics,Graphics,1680
+2021,Evi Tihemets ,600,600,1978,1970,Acrylic,Other paint,2136.75
+2021,Leonhard Lapin ,600,3700,1975,1970,Graphics,Graphics,3720
+2021,Tonis Vint,900,1850,1985,1980,Graphics,Graphics,517
+2021,Tonis Vint,900,950,1985,1980,Graphics,Graphics,517
+2021,Evald Okas ,1100,1700,1983,1980,Graphics,Graphics,3170
+2021,Vive Tolli ,900,1250,1965,1960,Etching,Graphics,2255.25
+2021,Concordia Klar ,900,1050,1974,1970,Acrylic,Other paint,3822
+2021,Sirje Eelma ,700,750,2012,2010,Graphics,Graphics,1024.8
+2021,Erich Pehap ,700,2600,1977,1970,Linoleum,Graphics,910
+2021,Uno Roosvalt ,2500,3300,2006,2000,Drawing,Drawing,8820
+2021,Mare Vint ,600,650,1980,1980,Graphics,Graphics,1263.08
+2021,Evald Okas ,900,2200,1985,1980,Linoleum,Graphics,2895.6
+2021,Peeter Ulas ,1200,1200,1975,1970,Acrylic,Other paint,4992
+2021,Eerik Haamer ,1700,1700,1960,1960,Graphics,Graphics,2750
+2021,Juri Arrak,1200,1950,1980,1980,Graphics,Graphics,2527.98
+2021,Erich Pehap ,800,1450,1976,1970,Linoleum,Graphics,823.69
+2021,Evald Okas ,1000,1700,1993,1990,Drawing,Drawing,2268
+2021,Vive Tolli ,1100,1500,1985,1980,Etching,Graphics,3270
+2021,Evald Okas ,1000,1600,1993,1990,Drawing,Drawing,2268
+2021,Edgar Valter ,700,1150,1964,1960,Graphics,Graphics,901.6
+2021,Silvi Liiva ,400,450,1970,1970,Etching,Graphics,1105
+2021,Vive Tolli ,800,1350,1978,1970,Etching,Graphics,2474.5
+2021,"Raul Meel, sarjast ",1200,1200,1990,1990,Graphics,Graphics,14400
+2021,Allex Kütt ,800,800,1971,1970,Etching,Graphics,2210.2
+2021,Peeter Allik ,700,900,2004,2000,Linoleum,Graphics,3489.75
+2021,Henno Arrak ,600,850,1971,1970,Etching,Graphics,1326
+2021,Evald Okas ,2800,2800,1972,1970,Aquatint,Graphics,3116.8
+2021,Eduard Einmann ,1700,2100,1960,1960,Graphics,Graphics,2326.5
+2021,Juri Arrak,1000,10800,2000,2000,Silk print,Other,2895.6
+2021,Vive Tolli ,500,500,1952,1950,Etching,Graphics,462.5
+2021,Kadri Alesmaa ,600,900,2007,2000,Graphics,Graphics,5425.05
+2021,Eduard Wiiralt ,3800,3800,1937,1930,Graphics,Graphics,1500.8
+2021,Johannes Greenberg ,6800,12000,1930,1930,Oil on wood,Oil paint,4060
+2021,Aarne Miikmaa ,11400,27500,1941,1940,Oil on canvas,Oil paint,2533.68
+2021,Lepo Mikko ,4800,22000,1943,1940,Oil on wood,Oil paint,3055.5
+2021,Endel Kauks,7000,23500,1953,1950,Oil on canvas,Oil paint,3996
+2021,Eduard Einmann ,4500,4500,1964,1960,Oil on canvas,Oil paint,3300
+2021,Edgar Valter ,7800,13000,1970,1970,Oil on cardboard,Oil paint,3264
+2021,Erich Pehap ,1500,2600,1958,1950,Mixed technique,Other,2437.79
+2021,Enno Hallek ,2800,2800,1965,1960,Oil on canvas,Oil paint,5541.16
+2021,Juri Arrak,2800,6200,1981,1980,Drawing,Drawing,7000
+2021,Erich Pehap ,1500,1650,1964,1960,Mixed technique,Other,2772.35
+2021,Eugeni Noormagi  ,2800,2800,1950,1950,Oil on cardboard,Oil paint,8341.5
+2021,Valerian Loik ,1200,1200,1970,1970,Oil on canvas,Oil paint,1656
+2021,Richard Uutmaa ,2200,3800,1970,1970,Watercolour,Other paint,2562
+2021,Richard Uutmaa ,5800,6600,1957,1950,Oil on cardboard,Oil paint,1750
+2021,Andrei Jegorov ,1800,2200,1930,1930,Gouache,Other paint,1650
+2021,Joann Voldemar Saarniit ,3800,5300,1965,1960,Oil on wood,Oil paint,7273.08
+2021,Lembit Nõmmeots ,700,750,1950,1950,Drawing,Drawing,1370.88
+2021,Valdur Ohakas ,1650,1650,1995,1990,Oil on wood,Oil paint,1305.4
+2021,Valdur Ohakas ,1650,3000,1995,1990,Oil on wood,Oil paint,1282.88
+2021,Valdur Ohakas ,1650,1750,1995,1990,Oil on wood,Oil paint,1313.96
+2021,Peeter Mudist ,16000,21500,1982,1980,Oil on cardboard,Oil paint,3210.48
+2021,Juhan Muks ,3200,3200,1945,1940,Oil on wood,Oil paint,5200
+2021,Olav Maran ,1400,1700,1961,1960,Oil on cardboard,Oil paint,2460
+2021,Osvald Laane ,1200,1550,1980,1980,Oil on canvas,Oil paint,3500
+2021,Silvia Jogever,3700,3800,1968,1960,Oil on canvas,Oil paint,3895.5
+2021,Hugo Lepik ,700,950,1960,1960,Oil on canvas,Oil paint,3261.51
+2021,Olga Terri ,900,1100,1940,1940,Oil on canvas,Oil paint,1687.5
+2021,Aksel Eist ,700,800,1970,1970,Oil on cardboard,Oil paint,3000
+2021,Peeter Allik ,500,800,2003,2000,Oil on canvas,Oil paint,352
+2021,Peeter Allik ,500,1100,2003,2000,Oil on canvas,Oil paint,352
+2021,Peeter Allik ,500,850,2004,2000,Oil on canvas,Oil paint,352
+2021,Eva Juliane Magdalena Zoege von Manteuffel ,800,800,1910,1910,Watercolour,Other paint,462.25
+2021,Edgar Valter ,1200,1300,1980,1980,Mixed technique,Other,1239
+2021,Erich Pehap ,2400,2900,1963,1960,Mixed technique,Other,4293
+2021,Anatoli Kaigorodov ,9600,10200,1920,1920,Tempera,Other paint,2386.25
+2021,Roman Nyman ,19000,19000,1930,1930,Oil on canvas,Oil paint,7400
+2021,Olev Subbi ,14000,17200,1999,1990,Mixed technique,Other,4800
+2021,Edgar Valter ,3800,10800,1980,1980,Oil on canvas,Oil paint,3440.25
+2021,Richard Uutmaa ,9400,25600,1960,1960,Oil on canvas,Oil paint,3500
+2021,Nikolai Kull ,5400,6200,1930,1930,Oil on canvas,Oil paint,3834
+2021,Eduard Wiiralt ,4000,4000,1938,1930,Graphics,Graphics,1187.03
+2021,Evald Okas ,12800,25200,2000,2000,Mixed technique,Other,18150
+2021,Roman Nyman ,4400,4800,1942,1940,Gouache,Other paint,1566.55
+2021,Ilmar Malin ,2900,3400,1978,1970,Oil on canvas,Oil paint,3795
+2021,Valerian Loik ,1250,1350,1970,1970,Oil on canvas,Oil paint,2961
+2021,Erich Pehap ,1200,1400,1971,1970,Linoleum,Graphics,2131.5
+2021,Henn Roode ,3600,3600,1960,1960,Oil on cardboard,Oil paint,3656.5
+2021,Varmo Pirk ,1600,3300,1961,1960,Oil on cardboard,Oil paint,1323
+2021,Renaldo Veeber ,900,900,1989,1980,Graphics,Graphics,3300
+2021,Sirje Runge ,4800,7400,1991,1990,Oil on canvas,Oil paint,9000
+2021,Eugeni Noormagi  ,1400,2500,1950,1950,Oil on canvas,Oil paint,4105.5
+2021,Valdur Ohakas ,2300,3700,1967,1960,Oil on cardboard,Oil paint,1715
+2021,Vive Tolli ,1200,1350,1986,1980,Etching,Graphics,3442.4
+2021,Nikolai Kormasov ,3400,3500,1962,1960,Oil on cardboard,Oil paint,6486
+2021,Evald Okas ,1200,2600,1972,1970,Aquatint,Graphics,1152
+2021,Juri Palm,3800,7000,1997,1990,Oil on canvas,Oil paint,5490.36
+2021,Urmas Pedanik ,2700,3700,2010,2010,Oil on canvas,Oil paint,7000
+2021,Felix Randel ,1300,1550,1946,1940,Oil on cardboard,Oil paint,640.5
+2021,Malle Leis ,1400,1700,1974,1970,Graphics,Graphics,4225
+2021,Malle Leis ,1400,1450,1974,1970,Graphics,Graphics,4225
+2021,Mari Roosvalt ,5400,5400,1978,1970,Oil on canvas,Oil paint,11368
+2021,Urmas Pedanik ,3400,5600,2011,2010,Oil on canvas,Oil paint,10625
+2021,Lemming Nagel ,1000,1050,2005,2000,Mixed technique,Other,3750
+2021,Jaan Toomik ,3400,7200,2020,2020,Oil on canvas,Oil paint,11050
+2021,Henno Arrak ,700,1850,1975,1970,Etching,Graphics,1271
+2021,Evald Okas ,2700,2700,1987,1980,Oil on canvas,Oil paint,1320
+2021,Silvia Jogever,2000,2000,1965,1960,Mixed technique,Other,2520
+2021,Juri Arrak,7800,33400,1989,1980,Oil on canvas,Oil paint,11640
+2021,Peeter Mudist ,4400,10000,1998,1990,Oil on canvas,Oil paint,2180
+2021,Aleksander Ristmagi ,1800,1800,1942,1940,Tempera,Other paint,1955.25
+2021,Mart Roosma,500,550,1941,1940,Graphics,Graphics,307.4
+2021,Valdur Ohakas ,5800,6000,1960,1960,Oil on canvas,Oil paint,7250
+2021,Ernst Hallop ,1400,2250,1976,1970,Oil on canvas,Oil paint,2479.75
+2021,Evald Okas ,5400,15200,1987,1980,Oil on canvas,Oil paint,6300
+2021,Valdur Ohakas ,1500,2100,1950,1950,Oil on cardboard,Oil paint,1620
+2021,Lepo Mikko ,1300,3500,1953,1950,Oil on cardboard,Oil paint,850
+2021,Arnold Peeter Vihvelin ,1000,1000,1920,1920,Tempera,Other paint,2507.5
+2021,Olev Mikiver ,800,2900,1979,1970,Oil on canvas,Oil paint,2000
+2021,Valdur Ohakas ,1800,1950,1995,1990,Oil on cardboard,Oil paint,1200
+2021,Aino Bach ,2400,2500,1964,1960,Graphics,Graphics,628.26
+2021,Eduard Wiiralt ,3800,4400,1942,1940,Graphics,Graphics,1564.56
+2021,Valerian Loik ,2800,3100,1977,1970,Oil on cardboard,Oil paint,3312
+2021,Marju Mutsu ,900,1400,1972,1970,Etching,Graphics,521.64
+2021,Richard Uutmaa ,5800,5800,1976,1970,Oil on canvas,Oil paint,3560.25
+2021,Erich Pehap ,1800,2200,1977,1970,Acrylic,Other paint,3024
+2021,August Jansen ,10800,2500,1934,1930,Oil on canvas,Oil paint,5175
+2021,Peeter Allik ,4800,4800,1990,1990,Oil on canvas,Oil paint,9579
+2021,Peeter Allik ,750,1600,2012,2010,Linoleum,Graphics,3750
+2021,Paul Kostabi & Michael Solis ,1450,1450,2003,2000,Mixed technique,Other,4636
+2021,Raivo Korstnik ,1200,2100,1962,1960,Oil on cardboard,Oil paint,1800
+2021,Richard Kaljo ,1400,2100,1961,1960,Graphics,Graphics,748.41
+2021,Lembit Sarapuu ,9700,9700,1960,1960,Oil on canvas,Oil paint,2305.35
+2021,Juri Arrak,750,4100,1988,1980,Graphics,Graphics,1216
+2021,Valdur Ohakas ,1400,2150,1966,1960,Oil on cardboard,Oil paint,3082
+2021,Jaan Tuuling ,1300,1300,1958,1950,Oil on cardboard,Oil paint,1770.25
+2020,Urmas Pedanik ,3800,7400,1983,1980,Oil on canvas,Oil paint,9775
+2020,Malle Leis ,2500,2500,1993,1990,Watercolour,Other paint,3759.5
+2020,Richard Uutmaa ,8800,8800,1944,1940,Oil on wood,Oil paint,1260
+2020,Valdur Ohakas ,9000,9200,1975,1970,Oil on canvas,Oil paint,12300
+2020,Ann Audova ,4900,4900,1943,1940,Oil on wood,Oil paint,1696
+2020,Ado Vabbe ,3500,5200,1946,1940,Oil on canvas,Oil paint,2154.75
+2020,Valerian Loik ,3800,5200,1976,1970,Oil on canvas,Oil paint,6408
+2020,Elmar Leppik ,2000,4200,1938,1930,Oil on canvas,Oil paint,2272.5
+2020,Andrei Jegorov ,4700,4700,1920,1920,Oil on wood,Oil paint,1118.43
+2020,Viktor Leškin ,1700,1700,1975,1970,Oil on cardboard,Oil paint,3453.84
+2020,Toomas Vint ,3300,3300,2006,2000,Oil on canvas,Oil paint,5265
+2020,Valve Janov ,900,6200,1964,1960,Tempera,Other paint,3575
+2020,Ilmar Ojalo ,1400,1400,1950,1950,Oil on canvas,Oil paint,7735.44
+2020,Alo Hoidre ,2800,2800,1990,1990,Oil on canvas,Oil paint,5494.5
+2020,Richard Uutmaa ,2400,10000,1969,1960,Gouache,Other paint,3600
+2020,Olev Subbi ,48000,66000,1986,1980,Mixed technique,Other,7252
+2020,Tiit Paasuke ,7500,11500,2011,2010,Acrylic,Other paint,14641
+2020,Endel Kauks,900,900,1943,1940,Graphics,Graphics,1720.57
+2020,Roman Nyman ,25000,41000,1944,1940,Oil on wood,Oil paint,6000
+2020,Uno Roosvalt ,5600,11000,1976,1970,Oil on canvas,Oil paint,12610
+2020,Aino Bach ,1700,1700,1937,1930,Aquatint,Graphics,1199.7
+2020,Richard Uutmaa ,7500,9100,1959,1950,Oil on cardboard,Oil paint,3500
+2020,Märt Bormeister ,1800,1800,1974,1970,Oil on canvas,Oil paint,4200
+2020,Evald Okas ,1500,2000,1962,1960,Aquatint,Graphics,2434.94
+2020,Juri Arrak,6200,6200,2008,2000,Oil on canvas,Oil paint,2646
+2020,Richard Uutmaa ,4800,5000,1977,1970,Oil on cardboard,Oil paint,3500
+2020,Evald Okas ,4400,5000,1989,1980,Oil on canvas,Oil paint,5036.38
+2020,Agu Pihelga ,1400,1400,1957,1950,Oil on canvas,Oil paint,2827.44
+2020,Henn Roode ,2400,2500,1969,1960,Oil on cardboard,Oil paint,2606.24
+2020,Salome Trei ,600,800,1937,1930,Graphics,Graphics,1696.32
+2020,Eugeni Noormagi  ,1600,2400,1950,1950,Oil on canvas,Oil paint,4032.4
+2020,Herman Halliste ,900,950,1930,1930,Mixed technique,Other,1559.25
+2020,Lembit Saarts ,2000,2000,1975,1970,Oil on canvas,Oil paint,5016
+2020,Evald Okas ,550,1150,2003,2000,Watercolour,Other paint,608
+2020,Kalju Nagel ,950,2500,1960,1960,Oil on cardboard,Oil paint,3086.87
+2020,Renaldo Veeber ,900,900,1980,1980,Graphics,Graphics,4560
+2020,Jaan Toomik ,4400,4400,2020,2020,Oil on canvas,Oil paint,12000
+2020,Kristjan Teder ,1600,1600,1942,1940,Oil on canvas,Oil paint,1361.2
+2020,Hugo Lepik ,600,600,1940,1940,Oil on canvas,Oil paint,2253.3
+2020,Valdur Ohakas ,1800,5250,1965,1960,Oil on cardboard,Oil paint,5266.8
+2020,Reinholds Kalnins ,600,600,1951,1950,Graphics,Graphics,1489.95
+2020,Gustav Raud ,1600,1600,1965,1960,Oil on cardboard,Oil paint,2564.52
+2020,Carl Alexander von Winkler ,1100,2000,1901,1900,Oil on canvas,Oil paint,793.44
+2020,Karl Burman juunior ,650,650,1992,1990,Watercolour,Other paint,3575
+2020,Paul Burman ,1100,1100,1925,1920,Watercolour,Other paint,707.6
+2020,Aino Bach ,1500,1500,1960,1960,Graphics,Graphics,945
+2020,Juhan Muks ,950,950,1960,1960,Oil on cardboard,Oil paint,1777.6
