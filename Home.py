@@ -7,7 +7,7 @@ st.title('Kanvas.AI Art Index')
 
 st.header('Allee Galerii Auctions - Map of Art Market')
 
-st.subheader('Total sales by artist and overbidding amount')
+st.subheader('Who are the best selling artists? Total art auction sales by overbidding percentage')
 
 df = pd.read_csv('allee_clean.csv')
 df['overbid_%'] = (df['end_price'] - df['start_price'])/df['start_price'] * 100
@@ -24,11 +24,19 @@ fig = px.treemap(df2, path=['category', 'tech', 'author'], values='total_sales',
 
 st.plotly_chart(fig, use_container_width=True)
 
-st.subheader('Relationship between the age of the art work and price')
+st.subheader('Is older art more expensive? The elationship between the age of the art work and price')
 
-fig = px.scatter(df, x="art_work_age", y="overbid_%", color="category",
+fig = px.scatter(df, x="art_work_age", y="end_price", color="category",
                  size='decade', hover_data=['author'])
 
 st.plotly_chart(fig, use_container_width=True)
 
+st.subheader('Are larger art works more expensive? The relationship between the dimensions of an art work and its price')
+
+fig = px.scatter(df, x="dimension", y="end_price", color="category",
+                 size='dimension', hover_data=['author'])
+
+st.plotly_chart(fig, use_container_width=True)
+
+st.text('Markus Sulg, Julian Kaljuvee')
 st.text('Source: Allee Galerii auctions (2020-2022)')

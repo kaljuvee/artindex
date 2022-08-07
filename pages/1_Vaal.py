@@ -31,4 +31,5 @@ fig = px.scatter(df, x="art_work_age", y="overbid_%", color="category",
 
 st.plotly_chart(fig, use_container_width=True)
 
+st.text('Markus Sulg, Julian Kaljuvee')
 st.text('Source: Vaal Gallery Auctions')
