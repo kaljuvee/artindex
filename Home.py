@@ -24,7 +24,7 @@ fig = px.treemap(df2, path=['category', 'tech', 'author'], values='total_sales',
 
 st.plotly_chart(fig, use_container_width=True)
 
-st.subheader('Is older art more expensive? The elationship between the age of the art work and price')
+st.subheader('Is older art more expensive? The relationship between the age of the art work and price')
 
 fig = px.scatter(df, x="art_work_age", y="end_price", color="category",
                  size='decade', hover_data=['author'])
@@ -38,5 +38,5 @@ fig = px.scatter(df, x="dimension", y="end_price", color="category",
 
 st.plotly_chart(fig, use_container_width=True)
 
-st.text('Markus Sulg, Julian Kaljuvee')
+st.text('Authors: Markus Sulg, Julian Kaljuvee')
 st.text('Source: Allee Galerii auctions (2020-2022)')
