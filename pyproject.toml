@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_nix_artindex"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.2"
+pandas = "^1.5.3"
+plotly = "^5.13.1"
+streamlit = "^1.20.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
